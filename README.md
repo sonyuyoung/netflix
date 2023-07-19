@@ -6,3 +6,5 @@
 - icon 사용 (favicon)
 - flex 사용
 - 반응형 +깃허브 페이지 배포
+
+* [사이트 접속] (https://sonyuyoung.github.io/netflix/)
